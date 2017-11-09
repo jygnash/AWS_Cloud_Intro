@@ -5,7 +5,7 @@ Log on given chromebook with credentials shared  at the desk.
 
 ## Hands-on exersice: 1
 
-Description: Design & Create Web Page: Your own web page that "Defined Yourself"
+Description: Design & Create Web Page that "Define's Yourself"
 
 Steps to follow to complete the exersice:
 
@@ -18,11 +18,14 @@ Steps to follow to complete the exersice:
 6. Open "Template.html" in "caret" application
 7. Replace "image.jpg" with the pictures you downloaded in step #5
    - This needs to be done for all 3 images. Simply find "image.jpg" for all 3 location
-7. Write details that descrive yourself in the place of "Decscription1...", "Decscription2..." and "Decscription3..."
-8. Highlight/bold the importance word using <b> if you want
-9. Make the heading bold​ using <b> 
-10. Open "files" application -> Goto "Download" folder -> Double tap on "Template.html" -> Click on "View" to open it on the browser
-11. Review your web page on browser and make more modication if you want
+8. Write details that describe yourself in the place of "Decscription1...", "Decscription2..." and "Decscription3..."
+9. Highlight/bold the importance word using <b> if you want
+10. Make the heading bold using <b> 
+11. Open "files" application
+12. Goto "Download" folder
+13. Double tap on "Template.html"
+14. Click on "View" to open it on the browser
+15. Review your web page on browser and make more modication if you want
 
 
 ## Hands-on exersice: 2
@@ -44,7 +47,7 @@ Steps to follow to complete the exersice:
 6. Click on your newly created bucket 
 7. Under "Overview", click on "Upload"
 8. Click on "Add files" and select the files from "Download" folder of your chromebook
-9. Click Next, Under "Manage public permissions", select "Grant public read access to this object(s)​​"
+9. Click Next, Under "Manage public permissions", select "Grant public read access to this object(s)"
 10. Click Next and Upload
 11. Verify all your files are beign uploaded successfully 
 12. Goto "Properties" tab and select "Static website hosting"
@@ -52,4 +55,4 @@ Steps to follow to complete the exersice:
 14. Copy "Endpoint" hyperlink
 15. Try hitting enpoint link on the browser and verify
 
-
+Congratuations! You have learned on basic of AWS Cloud and completed hands-on exercise successfully! :)
