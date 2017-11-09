@@ -55,4 +55,4 @@ Steps to follow to complete the exersice:
 14. Copy "Endpoint" hyperlink
 15. Try hitting enpoint link on the browser and verify
 
-Congratuations! You have learned on basic of AWS Cloud and completed hands-on exercise successfully! :)
+Congratuations! You have learned on basic of AWS Cloud S3 and completed hands-on exercise successfully! :)
