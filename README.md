@@ -9,23 +9,22 @@ Description: Design & Create Web Page that "Define's Yourself"
 
 Steps to follow to complete the exersice:
 
-1. Open "caret" application from chromebook (This is editor for writing HTML)
-2. Open Github repository: https://raw.githubusercontent.com/jygnash/AWS_Cloud_Intro/master/Template.html
-3. Right click on browser and Click on "Save as..."
-4. Save "Template.html" under "Download" folder
-5. Search for any 3 pictures on web (https://images.google.com) that you would like to use to defines yourself!
+1. Open Github repository: https://raw.githubusercontent.com/jygnash/AWS_Cloud_Intro/master/Template.html
+2. Right click on browser and Click on "Save as..."
+3. Save "Template.html" under "Download" folder
+4. Search for any 3 pictures on web (https://images.google.com) that you would like to use to defines yourself!
    OR If you wish, you can use your own picture from internet
-6. Open "Template.html" in "caret" application
-7. Replace "image.jpg" with the pictures you downloaded in step #5
+5. Open "Template.html" in "caret" application
+6. Replace "image.jpg" with the pictures you downloaded in step #5
    - This needs to be done for all 3 images. Simply find "image.jpg" for all 3 location
-8. Write details that describe yourself in the place of "Decscription1...", "Decscription2..." and "Decscription3..."
-9. Highlight/bold the importance word using <b> if you want
-10. Make the heading bold using <b> 
-11. Open "files" application
-12. Goto "Download" folder
-13. Double tap on "Template.html"
-14. Click on "View" to open it on the browser
-15. Review your web page on browser and make more modication if you want
+7. Write details that describe yourself in the place of "Decscription1...", "Decscription2..." and "Decscription3..."
+8. Highlight/bold the importance word using <b> if you want
+9. Make the heading bold using <b> 
+10. Open "files" application
+11. Goto "Download" folder
+12. Double tap on "Template.html"
+13. Click on "View" to open it on the browser
+14. Review your web page on browser and make more modication if you want
 
 
 ## Hands-on exersice: 2
