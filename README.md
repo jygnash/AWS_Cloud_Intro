@@ -33,7 +33,7 @@ Description: Host your web page on the AWS Cloud
 
 Steps to follow to complete the exersice:
 
-1. Click on one of the link below to login on AWS Cloud Console
+1. Log on AWS Cloud Console using your valid credentials
 2. Click on "S3"
 3. Click on "Create bucket"
 4. Enter "Bucket name"
